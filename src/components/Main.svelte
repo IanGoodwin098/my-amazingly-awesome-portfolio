@@ -3,7 +3,7 @@
   import Step from "./Step.svelte";
 
   let steps = [
-    { name: "NextJS Pokedex", icon: "fa-brands fa-react", href: 'https://nextjs-pokedex-2knvsuyxm-ian-goodwins-projects.vercel.app/' },
+    { name: "NextJS Pokedex", icon: "fa-brands fa-react", href: 'https://nextjs-pokedex-amber.vercel.app/' },
     { name: "Shopazon", icon: "fa-solid fa-cart-shopping", href: 'https://nextjs-ecommerce-63odpnkjk-ian-goodwins-projects.vercel.app/' },
   ];
 
